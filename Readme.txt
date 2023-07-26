@@ -11,3 +11,5 @@ Project 7 -> Guess The Number
 Project 8 -> Higher & Lower
           -> game_art.py
           -> game_database.py
+Project 9 -> Virtual Coffee Machine
+          -> Coffee Machine Requirement
