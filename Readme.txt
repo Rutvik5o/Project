@@ -13,3 +13,6 @@ Project 8 -> Higher & Lower
           -> game_database.py
 Project 9 -> Virtual Coffee Machine
           -> Coffee Machine Requirement
+Project 10-> Quiz Game-Python
+          -> quiz_database
+
