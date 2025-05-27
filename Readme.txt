@@ -22,3 +22,4 @@ Project 14-> Simple Email Slicer
 Project 15-> Acronyms Creator
 Project 16-> Drink Water Reminder
 Project 17-> PDF Merger
+Project 18-> AI ChatBot(Open AI)
