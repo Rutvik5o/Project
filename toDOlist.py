@@ -43,7 +43,7 @@ while True:
     elif choice == "3":
         remove_task()
     elif choice == "4":
-        print("Good Bye")
+        print("Good Bye!")
         break
     else:
         print("Invalid Option")
